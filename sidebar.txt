@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vto:home|Door43 (vto)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vto|d43-vto repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vto/archive/master.zip|d43-vto.zip]]
+
+**Recent Changes**
+{{changes>ns = vto}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vto|Ethnologue data]]
+
